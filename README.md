@@ -4,3 +4,5 @@
 - We finally get images which seem like hallucination/dream.
 - Original Image: <br><br>
   <img src = "https://github.com/nileshpatra/Deep-Dream/blob/master/mountain_top.jpg">
+- Changed Image : <br><br>
+  <img src = "https://github.com/nileshpatra/Deep-Dream/blob/master/deep_dream_changed.jpeg">
